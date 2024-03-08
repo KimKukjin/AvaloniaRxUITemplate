@@ -1,0 +1,2 @@
+# AvaloniaRxUITemplate
+Avalonia + ReactiveUI Template
